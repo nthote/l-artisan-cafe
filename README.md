@@ -18,6 +18,12 @@ This repository contains the source for a modern café experience with interacti
 
 Replace the image above with your own app screenshot by updating the Markdown image path.
 
+## Live demo
+
+Access the deployed prototype directly:
+
+- https://l-artisan-caf-605034850283.asia-southeast1.run.app/
+
 ## Local setup
 
 **Prerequisites:**
