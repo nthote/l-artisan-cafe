@@ -13,13 +13,8 @@ This repository contains the source for a modern café experience with interacti
 - Customer feedback and analytics-ready views
 - Built-in analytics dashboard for orders, revenue, and menu performance
 
-## Preview
 
-![L'Artisan Café prototype screenshot](https://via.placeholder.com/1000x520.png?text=L%27Artisan+Caf%C3%A9+Preview)
-
-Replace the image above with your own app screenshot by updating the Markdown image path.
-
-## Visist Live
+## Visit Live
 
 Access the deployed prototype directly:
 
