@@ -18,7 +18,7 @@ This repository contains the source for a modern café experience with interacti
 
 Replace the image above with your own app screenshot by updating the Markdown image path.
 
-## Live demo
+## Visist Live
 
 Access the deployed prototype directly:
 
