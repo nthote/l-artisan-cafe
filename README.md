@@ -11,6 +11,7 @@ This repository contains the source for a modern café experience with interacti
 - Rewards and loyalty-style UI
 - Staff/admin portal with kitchen tracker
 - Customer feedback and analytics-ready views
+- Built-in analytics dashboard for orders, revenue, and menu performance
 
 ## Preview
 
